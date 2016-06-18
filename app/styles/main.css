@@ -1,0 +1,7 @@
+.not-shown {
+  display: none !important;
+}
+
+.checkbox-on-off {
+  float: right;
+}
